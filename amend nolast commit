@@ -1,0 +1,5 @@
+*git stash
+git rebase -i HEAD~{N}
+*git add
+git commit --amend --no-edit
+git rebase --continue
