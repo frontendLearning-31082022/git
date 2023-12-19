@@ -1,0 +1,1 @@
+1. git remote add. existed project export to remote existed repo
